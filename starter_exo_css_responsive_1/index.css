@@ -8,9 +8,65 @@
     src: url(./assets/fonts/Chunk.ttf);
 }
 
-{
+*{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: Chunkotf;
 }
+
+/* Header */
+
+#red_line {
+    padding: 3px;
+    background-color: #DB5F5E;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    padding: 10px;
+    background-color: aqua;
+
+}
+
+#block_menu {
+    margin-left: 50px;
+    background-color: #DEDEDE;
+    border-radius: 5px;
+}
+#menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+    padding: 0 5px;
+}
+
+#menu p {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    
+}
+
+h1 {
+    font-family: Chunkttf;
+    color: red;
+    padding: 10px;
+}
+
+#button_suscribe {
+    padding: 7px;
+    border-radius: 5px;
+    background-color: #FCDA2F;
+    display: flex;
+    justify-content: flex-end;
+    align-items:center;
+}
+
+
+
+
+/*  */
