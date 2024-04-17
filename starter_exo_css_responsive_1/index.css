@@ -85,6 +85,17 @@ h1 {
 
 }
 
+/*  */
+
+/* Infos */
+
+h2 {
+    color: red;
+    font-weight: bold;
+    font-family: Chunkttf;
+    margin: 30px 10px 0 50px;
+
+}
 
 
 /*  */
