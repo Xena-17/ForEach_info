@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Chunkotf;
+    src: url("./assets/fonts/Chunk.otf");
+}
+
+@font-face {
+    font-family: Chunkttf;
+    src: url(./assets/fonts/Chunk.ttf);
+}
+
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Chunkotf;
+}
